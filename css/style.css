@@ -1,0 +1,105 @@
+          .bg-people{
+            background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/people.png);
+          }
+          .buttonrenk{
+            color: white;
+            background-color:#fb923c;
+          }
+          .hayal{
+            font-weight:bold;
+              margin-top: 150px;
+          }
+          .eyvallah{
+              font-size: 20px ;
+          }
+
+          .basvur{
+            margin-top: 20px;
+          padding:.8rem 2rem;
+          font-size:1.25rem;
+        }
+
+        .marketing .col-lg-4 {
+        margin-bottom: 1.5rem;
+        text-align: center;
+         }
+          .marketing h2 {
+        font-weight: 400;
+         }
+         .marketing .col-lg-4 p {
+        margin-right: .75rem;
+        margin-left: .75rem;
+         }
+         .nasilcalisir {
+          background: linear-gradient(
+      90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+      padding:.5rem 2rem;
+      font-size:1.25rem;
+      }
+       .acikkaynak{
+         margin-top: 20px;
+         padding:.5rem 2rem;
+      font-size:1.25rem;
+       }
+       .sekme:hover{
+         color:#fb923c;
+       }
+       .underline{
+         color:black;
+       }
+       .podcast{
+         background-color:#F5F5F5;
+       }
+       .kodluyoruz{
+        background: linear-gradient(
+          90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+         
+       }
+       .href:hover{
+         color: black;
+       }
+       .bg-kodladonustur{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/e3f6db9148380028b998de3404968cda47c5c7bf-4032x3024.webp);
+       }
+       .donustur{
+        font-weight:bold;
+         margin-top: 98px;
+       }
+       .sekmeler:hover{
+        color:#fb923c;
+       }
+       .sekmeler{
+         color:white;
+       }
+       .bg-bootcamp{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/6731e2636c8fe0494e49fff12b123dfe9542bbee-2832x1388.webp);
+       }
+       .bg-community{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/dac6aef8424f1056178a371bdea316b20969f1f7-3683x2801.webp);
+       }
+       .bg-junior{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/cd5e0df7904105555101d8dd211fd3d834ee18ac-5493x3400.webp);
+       }
+       
+       .sekmee:hover{
+        color:#fb923c;
+       }
+       .sekmee{
+        color:black;
+       }
+
+       .bg-companies{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/c04fc3d9cb16fe46504a04a3cc14087eae1ec3d9-2040x1291.webp);
+
+       }
+       .bg-about{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/adc5ba76d85bf2af717070a93e3dceabf2064b8d-5211x3070.webp);
+
+       }
+       .bg-faq{
+        background-image: linear-gradient(rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),url(../images/575dee26c051f482fc2b1b93a6520482ea80704a-2808x1908.webp);
+       }
+
+      
+
+       
